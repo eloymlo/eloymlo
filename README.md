@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working with front-end projects
 - 🌱 I’m currently learning HTML, CSS3 and JavaScript
-- 🤔 I’m looking for help with Python
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 
