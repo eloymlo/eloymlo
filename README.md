@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: eloyrmelo7@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
