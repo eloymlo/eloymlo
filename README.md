@@ -1,7 +1,7 @@
 ### Hello there, I'm Eloy 👋
 
 - 🔭 I’m currently working with front-end projects
-- 🌱 I’m currently learning HTML, CSS3 and JavaScript
+- 🌱 I’m also learning HTML, CSS3 and JavaScript
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 
