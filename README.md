@@ -1,9 +1,9 @@
 ### Hello there, I'm Eloy 👋
 
-- 🔭 I’m currently working with front-end projects
-- 🌱 I’m also learning HTML, CSS3 and JavaScript
-- 💬 Ask me about anything
-- 😄 Pronouns: He/Him
+- 🔭 Atualmente estou trabalhando com projetos front-end.
+- 🌱 Estou aperfeiçoando meus conhecimentos em HTML, CSS3 e JavaScript.
+- 💬 Sinta-se a vontade para entrar em contato.
+- 😄 Pronomes: Ele/Dele
 
 <div align="left">
   <a href="https://github.com/eloymlo">
